@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gotthard24
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C#/Unity
-- 💞️ I’m looking to collaborate on any game developers
+- 👀 I’m interested in FullStack positions
+- 🌱 I’m currently learning JS, Node.JS, React, Redux
+- 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me ... danya.smile@gmail.com
 
 <!---
