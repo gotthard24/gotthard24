@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gotthard24
-- 👀 I’m interested in FullStack positions
-- 🌱 I’m currently learning JS, Node.JS, React, Redux
+- 👀 I’m a FullStack developer
+- 🌱 I’m currently using JS, Node.JS, Flask, Vue.js, React, Redux
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me ... danya.smile@gmail.com
 
